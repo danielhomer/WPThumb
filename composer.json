@@ -3,6 +3,7 @@
 	"description": "An on-demand image generation replacement for WordPress image resizing.",
 	"keywords"   : ["wordpress"],
 	"homepage"   : "https://github.com/humanmade/WPThumb",
+	"type"       : "wordpress-plugin",
 	"license"    : "GPL-2.0+",
 	"authors"    : [
 		{
